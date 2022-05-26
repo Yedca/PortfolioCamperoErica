@@ -2,18 +2,18 @@
     padding: 20px;
 }
 div{
-background-color: dimgrey;
-text-align: center;
+background-color: #833d8b;
+text-align: end;
 }
-/*estilo de la fotoperfil*/
+/*estilo de fotoperfil*/
 @media(min-width:576px){
     #fotoperfil{
         position: absolute;
-        width: 15%;
+        width: 10%;
         border-radius: 100;
         box-shadow: 3px 3px 3px gray;
         left: 3%;
-        top:600 px;
+        top: 600px;
     }
 }
 @media(min-width:575px){
