@@ -3,27 +3,27 @@
 }
 div{
 background-color: #833d8b;
-text-align: end;
+text-align: center;
 }
 /*estilo de fotoperfil*/
-@media(min-width:576px){
+@media(min-width:320px){
     #fotoperfil{
         position: absolute;
-        width: 10%;
-        border-radius: 100;
-        box-shadow: 3px 3px 3px gray;
-        left: 3%;
-        top: 600px;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px black;
+        left: 5%;
+        top: 620px;
     }
 }
-@media(min-width:575px){
+@media(max-width:933px){
     #fotoperfil{
         position: absolute;
         width: 30%;
-        border-radius: 100;
-        box-shadow: 3px 3px 3px gray;
-        left: 33%;
-        top:630 px;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px black;
+        left: 5%;
+        top: 650px; 
     }
 }
 
