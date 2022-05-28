@@ -26,8 +26,8 @@ import { HyskillsComponent } from './components/hyskills/hyskills.component';
     HyskillsComponent,
   ],
   imports: [
-    BrowserModule
-    NgCircleProgressModule.forRoot ({})
+    BrowserModule,
+    NgCircleProgressModule.forRoot ({}),
   ],
   providers: [],
   bootstrap: [AppComponent]
