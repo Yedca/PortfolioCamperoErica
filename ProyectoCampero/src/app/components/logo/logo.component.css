@@ -4,7 +4,7 @@
    align-items: center;
 }
 .redes{
-   margin-right: -36.5em;
+   margin-right: 0.5em;
 }
 #logoARPRT{
    width: 150px;
@@ -17,14 +17,18 @@ img{
 .btn{
       border-width:medium;
 }
-.container{
+
+/*--Para la vist del celular --*/
+@media (max-width:575px){ 
+     .container{ 
       flex-direction: column;
 }
-.redes{
-   display:flex;
+    .redes{
+   display: flex;
    flex-direction: column;
    align-items: center;
 }
-.redes img{
+    .redes img{
    margin: 0.2em;
+}
 }

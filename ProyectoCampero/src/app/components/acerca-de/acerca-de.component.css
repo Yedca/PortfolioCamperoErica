@@ -1,5 +1,5 @@
 .row{
-    padding: 25%;
+    padding: 20px;
 }
 div{
 background-color: #833d8b;
@@ -23,7 +23,7 @@ text-align: center;
         border-radius: 100%;
         box-shadow: 3px 3px 3px black;
         left: 33%;
-        top:100px;
+        top: 800px;
     }
 }
 
