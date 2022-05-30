@@ -1,3 +1,30 @@
+.container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.redes{
+   margin-right: -36.5em;
+}
 #logoARPRT{
    width: 150px;
+}
+img{
+   width: 50px;
+   border-radius: 50%;
+   box-shadow: 4px 4px 4px black;
+   }
+.btn{
+      border-width:medium;
+}
+.container{
+      flex-direction: column;
+}
+.redes{
+   display:flex;
+   flex-direction: column;
+   align-items: center;
+}
+.redes img{
+   margin: 0.2em;
 }
