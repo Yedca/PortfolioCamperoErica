@@ -1,5 +1,6 @@
 .row{
     padding: 75px;
+    text-shadow: 2px 2px 2px pink;
 }
 div{
 background-color: #833d8b;
@@ -37,4 +38,5 @@ text-align: center;
 #nombre{
 font-weight: bold;
 margin-top: 10px;
+text-shadow: 2px -2px 4px pink;
 }
