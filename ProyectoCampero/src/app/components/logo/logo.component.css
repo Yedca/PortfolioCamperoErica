@@ -4,15 +4,16 @@
    align-items: center;
 }
 .redes{
-   margin-right: 0.5em;
+   margin-right: 0.4em;
 }
 #logoARPRT{
    width: 150px;
+   border-radius: 20%;
 }
 img{
    width: 50px;
-   border-radius: 50%;
-   box-shadow: 4px 4px 4px black;
+   border-radius: 30%;
+   box-shadow: -3px -4px 4px black;
    }
 .btn{
       border-width:medium;
@@ -29,6 +30,6 @@ img{
    align-items: center;
 }
     .redes img{
-   margin: 0.2em;
+   margin: 0.3em;
 }
 }

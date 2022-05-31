@@ -1,9 +1,15 @@
 .row{
-    padding: 20px;
+    padding: 75px;
 }
 div{
 background-color: #833d8b;
 text-align: center;
+}
+.img-fluid{
+        max-width: 300px;
+        height: auto;
+        
+        
 }
 /*estilo de fotoperfil*/
 @media(min-width:320px){
@@ -18,12 +24,12 @@ text-align: center;
 }
 @media(max-width:933px){
     #fotoperfil{
-        position: absolute;
-        width: 30%;
-        border-radius: 100%;
-        box-shadow: 3px 3px 3px black;
-        left: 33%;
-        top: 800px;
+    position: absolute;
+    width: 22%;
+    border-radius: 195%;
+    box-shadow: 3px 3px 3px black;
+    left: 2%;
+    top: 625px;
     }
 }
 
