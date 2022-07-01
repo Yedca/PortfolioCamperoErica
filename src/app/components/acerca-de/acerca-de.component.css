@@ -3,8 +3,8 @@
     text-shadow: 2px 2px 2px pink;
 }
 div{
-background-color: #833d8b;
-text-align: center;
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);;
+    text-align: center;
 }
 .img-fluid{
         max-width: 300px;

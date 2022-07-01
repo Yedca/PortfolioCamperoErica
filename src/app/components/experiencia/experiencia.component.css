@@ -3,7 +3,7 @@
     text-shadow: 2px 2px 2px pink;
 }
 div{
-    background-color: #833d8b;
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);;
 }
 h1, h3{
     display: inline;
