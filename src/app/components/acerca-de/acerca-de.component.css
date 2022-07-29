@@ -3,34 +3,34 @@
     text-shadow: 2px 2px 2px pink;
 }
 div{
-    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);;
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
     text-align: center;
 }
 .img-fluid{
-        max-width: 300px;
-        height: auto;
+        width: 20%;
+        height: 300px;
         
         
 }
 /*estilo de fotoperfil*/
-@media(min-width:320px){
+@media(min-width:520px){
     #fotoperfil{
         position: absolute;
-        width: 28;
+        width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px black;
-        left: 2%;
-        top: 300px;
+        left: 3%;
+        top: 600px;
     }
 }
-@media(max-width:933px){
+@media(max-width:520px){
     #fotoperfil{
     position: absolute;
-    width: 22%;
-    border-radius: 195%;
-    box-shadow: 3px 3px 3px black;
-    left: 2%;
-    top: 625px;
+    width: 30%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px #dd3675;
+    left: 33%;
+    top: 900px;
     }
 }
 
